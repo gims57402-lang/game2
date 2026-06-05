@@ -6,14 +6,3 @@
     "build": "echo Ready to deploy"
   }
 }
-{
-  "name": "firebase-vercel-mini-game",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "npx serve .",
-    "build": "node build.js"
-  },
-  "dependencies": {},
-  "devDependencies": {}
-}
