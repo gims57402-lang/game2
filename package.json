@@ -1,4 +1,12 @@
 {
+  "name": "coin-dash",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo Ready to deploy"
+  }
+}
+{
   "name": "firebase-vercel-mini-game",
   "version": "1.0.0",
   "private": true,
